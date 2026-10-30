@@ -2,8 +2,8 @@
 
 # 🎀 Sofia's 3D Models
 
-**Stylized low-poly Blender models made for my Roblox games**  
-*Build Your Own Pet* · *Woodcutter vs Zombies*
+**Stylized low-poly Blender models made for my Roblox game**  
+*Build Your Own Pet*
 
 <a href="https://sofia-stetsiuk-portfolio.vercel.app/en#showroom"><img src="https://img.shields.io/badge/View_in_3D-FF5FA2?style=for-the-badge&logo=threedotjs&logoColor=white"/></a>
 <a href="https://create.roblox.com/store"><img src="https://img.shields.io/badge/Free_on_Roblox_Creator_Store-E0307E?style=for-the-badge&logo=roblox&logoColor=white"/></a>
@@ -15,10 +15,10 @@
 
 ## ✨ About
 
-39 models exported from Blender to **glTF (.glb)** with Draco compression, plus 21 modular pet parts for the part-based pet builder.  
+33 models exported from Blender to **glTF (.glb)** with Draco compression.  
 GitHub can't preview `.glb` in 3D — open them in the **[3D showroom on my site](https://sofia-stetsiuk-portfolio.vercel.app/en#showroom)**, in Blender (*File → Import → glTF 2.0*), or drag into [gltf-viewer.donmccurdy.com](https://gltf-viewer.donmccurdy.com/).
 
-> 💡 Most models are also published **for free** on the Roblox Creator Store — each card has a 🛒 link.
+> 💡 All models are also published **for free** on the Roblox Creator Store — each card has a 🛒 link.
 
 
 ## 🐉 Bubble Lagoon
@@ -87,35 +87,7 @@ GitHub can't preview `.glb` in 3D — open them in the **[3D showroom on my site
 </tr>
 </table>
 
-## 🪓 Woodcutter vs Zombies
 
-<table>
-<tr>
-<td align="center" width="25%"><img src="previews/wc-chest.webp" width="180"/><br/><b>Chest</b><br/><sub>8 360 tris · 64 KB</sub><br/><a href="woodcutter-vs-zombies/wc-chest.glb">⬇️ .glb</a></td>
-<td align="center" width="25%"><img src="previews/wc-treasure-chest.webp" width="180"/><br/><b>Treasure Chest</b><br/><sub>24 928 tris · 193 KB</sub><br/><a href="woodcutter-vs-zombies/wc-treasure-chest.glb">⬇️ .glb</a></td>
-<td align="center" width="25%"><img src="previews/wc-mimic.webp" width="180"/><br/><b>Mimic</b><br/><sub>23 068 tris · 93 KB</sub><br/><a href="woodcutter-vs-zombies/wc-mimic.glb">⬇️ .glb</a></td>
-<td align="center" width="25%"><img src="previews/wc-shop-weapons.webp" width="180"/><br/><b>Weapons Shop</b><br/><sub>46 636 tris · 323 KB</sub><br/><a href="woodcutter-vs-zombies/wc-shop-weapons.glb">⬇️ .glb</a></td>
-</tr>
-<tr>
-<td align="center" width="25%"><img src="previews/wc-gold-axe.webp" width="180"/><br/><b>Gold Axe</b><br/><sub>15 552 tris · 44 KB</sub><br/><a href="woodcutter-vs-zombies/wc-gold-axe.glb">⬇️ .glb</a></td>
-<td align="center" width="25%"><img src="previews/wc-zombie-outfit.webp" width="180"/><br/><b>Zombie</b><br/><sub>38 560 tris · 246 KB</sub><br/><a href="woodcutter-vs-zombies/wc-zombie-outfit.glb">⬇️ .glb</a></td>
-</tr>
-</table>
-
-## 🐾 Pet parts
-
-Modular parts for the *Build Your Own Pet* builder — three elements (🔥 fire · 💧 water · 🌪️ air) × head, body, back, tail, front & hind paws, plus accessories. Try combining them in the [interactive pet builder](https://sofia-stetsiuk-portfolio.vercel.app/en#showroom).
-
-| Part | 🔥 Fire | 💧 Water | 🌪️ Air |
-|---|:-:|:-:|:-:|
-| Head | [⬇️](build-your-pet/pet-parts/fire-head.glb) | [⬇️](build-your-pet/pet-parts/water-head.glb) | [⬇️](build-your-pet/pet-parts/air-head.glb) |
-| Body | [⬇️](build-your-pet/pet-parts/fire-body.glb) | [⬇️](build-your-pet/pet-parts/water-body.glb) | [⬇️](build-your-pet/pet-parts/air-body.glb) |
-| Back | [⬇️](build-your-pet/pet-parts/fire-back.glb) | [⬇️](build-your-pet/pet-parts/water-back.glb) | [⬇️](build-your-pet/pet-parts/air-back.glb) |
-| Tail | [⬇️](build-your-pet/pet-parts/fire-tail.glb) | [⬇️](build-your-pet/pet-parts/water-tail.glb) | [⬇️](build-your-pet/pet-parts/air-tail.glb) |
-| Front Paws | [⬇️](build-your-pet/pet-parts/fire-front-paws.glb) | [⬇️](build-your-pet/pet-parts/water-front-paws.glb) | [⬇️](build-your-pet/pet-parts/air-front-paws.glb) |
-| Hind Paws | [⬇️](build-your-pet/pet-parts/fire-hind-paws.glb) | [⬇️](build-your-pet/pet-parts/water-hind-paws.glb) | [⬇️](build-your-pet/pet-parts/air-hind-paws.glb) |
-
-**Accessories:** [acc-head-epic](build-your-pet/pet-parts/acc-head-epic.glb) · [acc-head-legendary](build-your-pet/pet-parts/acc-head-legendary.glb) · [acc-head-rare](build-your-pet/pet-parts/acc-head-rare.glb)
 
 <p align="center">⋆｡ﾟ☁︎｡⋆｡ ﾟ☾ ﾟ｡⋆ &nbsp; =^･ω･^= &nbsp; ⋆｡ﾟ☁︎｡⋆｡ ﾟ☾ ﾟ｡⋆</p>
 
