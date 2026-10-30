@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🎀 Sofia's 3D Models
+<img src="assets/banner.jpg" width="100%" alt="3D Models — made in Blender"/>
 
 **Stylized low-poly Blender models made for my Roblox game**  
 *Build Your Own Pet*
